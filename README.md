@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:arthur.bm222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-005A36?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-arthur.bm222@gmail.com-005A36?style=flat-square&logo=gmail&logoColor=white&labelColor=004228" alt="Email" />
   </a>
 </p>
 
